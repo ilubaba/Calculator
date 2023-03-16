@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(250, 247, 247);
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 377px;
+    height: 677px;
+    background-color: rgb(210, 203, 214);
+    border-radius: 1rem;
+    margin-left: 50rem;
+    margin-top: 10rem;
+    padding: 1rem;
+}
+button{
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2;
+
+}
+
+.bt1{
+    max-width: 50px;
+    height: 50px;
+    background-color: blue;
+    margin-bottom: rem;
+    padding: 2.5rem;
+}
